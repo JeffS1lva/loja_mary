@@ -11,7 +11,7 @@ export function ButtonIcon() {
         <RiInstagramLine className="size-7 text-white" />
       </a>
       <a
-        href="https://api.whatsapp.com/send?phone=5511914675286"
+        href="https://api.whatsapp.com/send?phone=5511957137484" target="_blank"
         className="hover:bg-zinc-700 rounded-md p-1.5 cursor-pointer"
       >
         <RiWhatsappLine className="size-7 text-white" />
